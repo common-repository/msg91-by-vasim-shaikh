@@ -1,0 +1,7 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+ .msg91-full {display:flex; justify-content:center; align-items:center; } 
+ .msg91-full form{width:350px; }
